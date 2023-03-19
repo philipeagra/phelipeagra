@@ -1,4 +1,4 @@
-## Olá! Eu sou o Philipe Agra
+## Olá! Eu sou o Philipe Agra!
 
 - 📝 Estudando React e TypeScript
 - 📥contate-me no e-mail: philipeagra.dev@gmail.com / phelipeagra@gmail.com
